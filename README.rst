@@ -1,4 +1,4 @@
-GitHub test exercise
+tGitHub test exercise
 ====================
 
 This is a trivial exercise to get you started with Git and GitHub. All you
